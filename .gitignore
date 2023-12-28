@@ -1,0 +1,7 @@
+/node_modules
+/updates
+/windows
+/noticias
+/daemon/*
+!daemon/redjavi.exe
+logs.txt
